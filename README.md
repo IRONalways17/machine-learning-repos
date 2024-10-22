@@ -4,7 +4,14 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-142-orange.svg?style=flat-square)](#contributors-)
-<a href="https://github.com/recodehive/machine-learning-repos/stargazers"><img src="https://img.shields.io/github/stars/recodehive/machine-learning-repos" alt="Stars Badge"/></a>
+<a id="top"></a>
+<div align="center">
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-142-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<a href="https://github.com/recodehive/"><img src="https://img.shields.io/github/stars/recodehive/machine-learning-repos" alt="Stars Badge"/></a>
 <a href="https://github.com/recodehive/machine-learning-repos/network/members"><img src="https://img.shields.io/github/forks/recodehive/machine-learning-repos" alt="Forks Badge"/></a>
 <a href="https://github.com/recodehive/machine-learning-repos/pulls"><img src="https://img.shields.io/github/issues-pr/recodehive/machine-learning-repos" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/recodehive/machine-learning-repos/issues"><img src="https://img.shields.io/github/issues/recodehive/machine-learning-repos" alt="Issues Badge"/></a>
